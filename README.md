@@ -15,7 +15,7 @@ Features:
 See photos below. Interact with this sidebar on <a href="https://vue-and-sass-sidebar.netlify.app/">Netlify</a>.
 
 # Expanded
-Apart from the Vue logo (#represent!!!), all icons and fonts used are from the Google Icons and Google Fonts selection.
+Apart from the Vue and Vite logos (#represent!!!), all icons and fonts used are from the Google Icons and Fonts <a href="https://fonts.google.com/">selection</a>.
 
 ![image](https://github.com/zariacs/vue-sidebar/assets/114250420/5d3a32ba-4199-436d-91be-2ea6d783f0eb)
 
