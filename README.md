@@ -1,4 +1,4 @@
-This was some practice making a responsive sidebar with Vue.js and Sass. Really done to practice before incorporating a similar sidebar into a larger project of mine. This is a set of notes in case I ever want to look back on this as a reference.
+This was some practice making a responsive sidebar with Vue.js and Sass. Really done to practice before incorporating a similar sidebar into a larger project of mine. This is a set of notes in case I ever want to look back on this sidebar as a reference.
 
 Tools:
 - <a href="https://vuejs.org/">Vue.js</a>
